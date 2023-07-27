@@ -1,4 +1,4 @@
-# Hello, I Andres Perez
+# Hello, I'm Andres Perez
 
 I'm interested in learning as much as possible and it starts here on Github.
 
