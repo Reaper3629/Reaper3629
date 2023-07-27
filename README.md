@@ -1,14 +1,13 @@
-Greetings, I’m @Reaper3629
+# Hello, I Andres Perez
 
-I’m interested in VEX, School, and Volleyball
+I'm interested in learning as much as possible and it starts here on Github.
 
-I’m currently learning how to life
+## Other Interested
+- VEX Robotics
+- Learning more on Computer Science and Engineering
+- Fitness
 
-I’m looking to collaborate on my vex robot, Bubble Tea!
-
-そして、　高校の三年生です。でも　頭が　悪くて　大きいです。
-
-Instagram: chitoperez1990 
+Instagram: [chitoperez1990](https://www.instagram.com/chitoperez1990/)
 
 <!---
 Reaper3629/Reaper3629 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
